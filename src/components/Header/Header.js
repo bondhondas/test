@@ -7,7 +7,7 @@ const Header = () => {
             <h6 className="text-white">Build your own Cheff team</h6>
             <h2 className="text-danger">
                 Budget
-                <span className="badge bg-danger ms-2">$99999</span>
+                <span className="badge bg-danger ms-2">$80000</span>
             </h2>
         </div>
     );
