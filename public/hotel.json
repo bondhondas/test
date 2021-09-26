@@ -1,0 +1,119 @@
+[
+    {
+        "id": 990922,
+        "name": "'Oliver Smith'",
+        "rank": "Main Cheff",
+        "gender": "Male",
+        "experience": "2 Years",
+        "salary": 8000,
+        "image": "https://media.istockphoto.com/photos/handsome-young-african-chef-standing-in-professional-kitchen-in-a-picture-id1217012868?s=612x612"
+    },
+    {
+        "id": 58920,
+        "name": "Jack Thomas",
+        "rank": "Manager",
+        "gender": "Male",
+        "experience": "4 Years",
+        "salary": 6000,
+        "image": "https://media.istockphoto.com/photos/smiling-male-cook-on-gray-background-picture-id1300835557"
+    },
+    {
+        "id": 540450,
+        "name": "Joshua Brown",
+        "rank": "Ass-Manager",
+        "gender": "Male",
+        "experience": "3 Years",
+        "salary": 5000,
+        "image": "https://media.istockphoto.com/photos/young-waiter-serving-picture-id811911828?s=612x612"
+    },
+    {
+        "id": 805006,
+        "name": "Thomas Johnson",
+        "rank": "Cheff",
+        "gender": "Male",
+        "experience": "2 Years",
+        "salary": 4000,
+        "image": "https://media.istockphoto.com/photos/portrait-of-sommelier-in-bar-establishment-picture-id1188726412?s=612x612"
+    },
+    {
+        "id": 895080,
+        "name": "William Jones",
+        "rank": "Cheff",
+        "gender": "Male",
+        "experience": "3 Years",
+        "salary": 3000,
+        "image": "https://images.unsplash.com/photo-1618212158973-5e36714e374b?ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8bW9kZWwlMjBtYW58ZW58MHx8MHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+        "id": 878995,
+        "name": "Alfie Miller",
+        "rank": "Assistant Cheff",
+        "gender": "Male",
+        "experience": "4 Years",
+        "salary": 42000,
+        "image": "https://images.unsplash.com/photo-1480429370139-e0132c086e2a?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=388&q=80"
+    },
+    {
+        "id": 78506,
+        "name": "Daniel Rodriguez",
+        "rank": "Assistant Cheff",
+        "gender": "Female",
+        "experience": "3 Years",
+        "salary": 3200,
+        "image": "https://images.unsplash.com/photo-1583195648371-437bf29408ca?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=435&q=80"
+    },
+    {
+        "id": 598652,
+        "name": "Joseph Davis",
+        "rank": "Assistant Cheff",
+        "gender": "Male",
+        "experience": "5 Years",
+        "salary": 4900,
+        "image": "https://images.unsplash.com/photo-1581599129568-e33151627628?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80"
+    },
+    {
+        "id": 789508,
+        "name": "Samuel Garcia",
+        "rank": "waiter",
+        "gender": "Male",
+        "experience": "2 Years",
+        "salary": 1200,
+        "image": "https://media.istockphoto.com/photos/close-up-photo-amazing-he-him-his-middle-age-macho-perfect-appearance-picture-id1157099476?b=1&k=20&m=1157099476&s=170667a&w=0&h=lqe3sVmS3khqLFxVpeLr0DNFzbUA6UJ_paKTOthZU3M="
+    },
+    {
+        "id": 789580,
+        "name": "Jacob Martinez",
+        "rank": "waiter",
+        "gender": "Male",
+        "experience": "3 Years",
+        "salary": 1800,
+        "image": "https://media.istockphoto.com/photos/young-smiling-handsome-man-in-casual-clothes-posing-isolated-on-blue-picture-id1249420269?b=1&k=20&m=1249420269&s=170667a&w=0&h=Bg1BPWCH2z_hpe0HbHf5Ns_CAHD1h_q3lYy4XR69UrY="
+    },
+    {
+        "id": 58968,
+        "name": "Ethan Lee",
+        "rank": "Cleaner",
+        "gender": "Female",
+        "experience": "2 Years",
+        "salary": 1000,
+        "image": "https://media.istockphoto.com/photos/never-leave-home-without-your-confidence-picture-id1157185406?b=1&k=20&m=1157185406&s=170667a&w=0&h=ONtD396k6QtssJgP_B4iGC6vxiLu8yekjvKk1GcfrKM="
+    },
+    {
+        "id": 58968,
+        "name": "Oscar Moore",
+        "rank": "Cleaner",
+        "gender": "Male",
+        "experience": "1 Years",
+        "salary": 1000,
+        "image": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=399&q=80"
+    },
+    {
+        "id": 596863,
+        "name": "Matthew Martin",
+        "rank": "waiter",
+        "gender": "Male",
+        "experience": "1 Years",
+        "salary": 1500,
+        "image": "https://images.unsplash.com/flagged/photo-1570612861542-284f4c12e75f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    }
+]
